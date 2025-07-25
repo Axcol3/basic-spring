@@ -1,0 +1,6 @@
+restaurant:
+  name: French Rest
+  capacity: 50
+  description: "Name : ${restaurant.name}, Capacity : ${restaurant.capacity}, Owner : ${restaurant.owner:Andrew}"
+  menu:
+    itemsString: Spaghetti Bolognese,Caesar Salad,Grilled Salmon
