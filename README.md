@@ -14,3 +14,15 @@ This repository contains a basic example of a Java Spring application. It demons
 1. Clone the repository:
    ```bash
    git clone https://github.com/Axcol3/basic-spring.git
+
+2. Navigate to the project directory:
+   ```bash
+   cd basic-spring
+
+3. Build and run the application using your preferred IDE or command line tools (e.g., Maven or Gradle).
+
+
+## Requirements
+  + Java JDK 8 or higher
+  + Maven or Gradle
+  + Spring Boot
